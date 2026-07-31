@@ -8,3 +8,5 @@
 #7. git branch -M main --> to push to main branch
 #8. git remote add origin https://github.com/PriyankaTari08/github_ci-cd_practice.git
 #9. git push -u origin main --> to push the codes to remote repository
+#10. signin and authorise account
+#create a github workflow
